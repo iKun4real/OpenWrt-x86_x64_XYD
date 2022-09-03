@@ -17,3 +17,7 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 #echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+
+git clone https://github.com/pymumu/smartdns.git package/smartdns
+git clone https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argonne
