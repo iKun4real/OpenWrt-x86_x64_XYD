@@ -19,3 +19,5 @@
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argonne
+# Modify default theme to argonne
+sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
