@@ -14,5 +14,4 @@
 #sed -i 's/192.168.1.1/192.168.84.42/g' package/base-files/files/bin/config_generate
 # Modify default theme to argonne
 sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
-./scripts/feeds update -a
-./scripts/feeds install -a
+sed -i 's/bootstrap/neobird/g' feeds/luci/modules/luci-base/root/etc/config/luci
