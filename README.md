@@ -1,4 +1,4 @@
-基于L大源码以及P3TERX ACTIONS项目编译的OpenWrt.
+基于L大源码以及P3TERX的actions项目编译的OpenWrt.
 
 目前包含了以下插件:
 1.netdata
