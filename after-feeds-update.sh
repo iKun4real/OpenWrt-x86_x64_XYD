@@ -13,3 +13,4 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.84.42/g' package/base-files/files/bin/config_generate
 # Modify default theme to argonne
+git clone https://github.com/skyformat99/eqos.git openwrt/package/lean/eqos
