@@ -13,7 +13,7 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.84.42/g' package/base-files/files/bin/config_generate
 # Modify default theme to argonne
-sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
-sed -i 's/bootstrap/neobird/g' feeds/luci/modules/luci-base/root/etc/config/luci
+# sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
+# sed -i 's/bootstrap/neobird/g' feeds/luci/modules/luci-base/root/etc/config/luci
 # Add custom plugins
 git clone https://github.com/skyformat99/eqos.git package/lean/eqos
