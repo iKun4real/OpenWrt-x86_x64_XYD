@@ -16,4 +16,4 @@
 # sed -i 's/luci-theme-bootstrap/luci-theme-neobird/g' feeds/luci/collections/luci/Makefile
 # sed -i 's/bootstrap/neobird/g' feeds/luci/modules/luci-base/root/etc/config/luci
 # Add custom plugins
-git clone https://github.com/skyformat99/eqos.git package/lean/eqos
+# git clone https://github.com/skyformat99/eqos.git package/lean/eqos
