@@ -1,18 +1,24 @@
-基于L大源码以及P3TERX的Actions项目编译的OpenWrt.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">J0EST1N-OpenWrt
+## 基于L大源码以及P3TERX的Actions项目编译的OpenWrt.
 
-目前包含了以下插件:
-1.netdata
-2.passwall2
-3.广告屏蔽大师 Plus+
-4.阿里云盘WebDav
-5.ShadowsocksR Plus+
-6.OpenClash
-7.阿里DDNS
-8.迅雷快鸟
-9.UU游戏加速器
-10.netspeedtest
+![](https://img.shields.io/badge/XYD-2022.11.17--2019-green)
 
-固件一览
+[![Header](https://upsangel.com/wp-content/uploads/2013/06/openwrt-logo1.png "Header")](https://github.com/J0EST1N/)
+
+
+### 目前包含了以下插件:
+#### 🕹1.netdata
+#### 🕹2.passwall2
+#### 🕹3.广告屏蔽大师 Plus+
+#### 🕹4.阿里云盘WebDav
+#### 🕹5.ShadowsocksR Plus+
+#### 🕹6.OpenClash
+#### 🕹7.阿里DDNS
+#### 🕹8.迅雷快鸟
+#### 🕹9.UU游戏加速器
+#### 🕹10.netspeedtest
+
+### 固件一览
 
 ![Snipaste_2022-09-05_19-55-33](https://user-images.githubusercontent.com/24572324/188443734-a91b67ab-c0af-42a2-bea5-c2ceb0b3ab41.png)
 
