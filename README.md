@@ -1,22 +1,26 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">J0EST1N-OpenWrt
-## 基于L大源码以及P3TERX的Actions项目编译的OpenWrt.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=J0EST1N-OpenWrt)](https://git.io/typing-svg)
+
+[![Header](https://github.com/Lienol/openwrt/blob/21.02/include/logo.png?raw=true "Header")](https://github.com/openwrt/openwrt)
 
 ![](https://img.shields.io/badge/XYD-2022.11.17--2019-green)
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">基于L大源码以及P3TERX的Actions项目编译的OpenWrt.
 
-[![Header](https://upsangel.com/wp-content/uploads/2013/06/openwrt-logo1.png "Header")](https://github.com/J0EST1N/)
 
 
 ### 目前包含了以下插件:
-#### 🕹1.netdata
-#### 🕹2.passwall2
-#### 🕹3.广告屏蔽大师 Plus+
-#### 🕹4.阿里云盘WebDav
-#### 🕹5.ShadowsocksR Plus+
-#### 🕹6.OpenClash
-#### 🕹7.阿里DDNS
-#### 🕹8.迅雷快鸟
-#### 🕹9.UU游戏加速器
-#### 🕹10.netspeedtest
+    ◉ netdata
+    ◉ passwall2
+    ◉ 广告屏蔽大师 Plus+
+    ◉ 阿里云盘WebDav
+    ◉ ShadowsocksR Plus+
+    ◉ OpenClash
+    ◉ 阿里DDNS
+    ◉ 迅雷快鸟
+    ◉ UU游戏加速器
+    ◉ netspeedtest
+
+
 
 ### 固件一览
 
