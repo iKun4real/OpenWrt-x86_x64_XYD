@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=J0EST1N-OpenWrt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&width=435&lines=iKun4real+OpenWrt)](https://git.io/typing-svg)
 
 [![Header](https://github.com/Lienol/openwrt/blob/21.02/include/logo.png?raw=true "Header")](https://github.com/openwrt/openwrt)
 
